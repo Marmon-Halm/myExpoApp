@@ -1,0 +1,5 @@
+Login Page - sign up / register
+Home Page
+Product Details
+Cart
+Checkout
